@@ -1,5 +1,0 @@
-class Test{
-     main(){
-        system.out.println("This is our test file");
-           }
-}
